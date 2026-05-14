@@ -1,4 +1,33 @@
 h1 {
 	color: green;
 	font-size: 45px;
+	font-family: cursive;
+	letter-spacing: 20px;
+}
+
+p {
+	font-family: "BPG Mikheil Stefane", monospace;
+	font-size: 28px;
+	color: red;
+}
+
+#font {
+	font-family: "Urbanist";
+	text-transform: lowercase;
+}
+
+h3 {
+	font-family: "Edu AU VIC WA NT Guides";
+	text-transform: uppercase;
+}
+
+h4 {
+	font-weight: 400;
+	font-size: 18px;
+	text-indent: 30px;
+	line-height: 28px;
+}
+
+h5 {
+	text-transform: capitalize;
 }
